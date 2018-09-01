@@ -65,7 +65,7 @@ __        __   ____   _____
 
 echo $R."\n++++++++++++++++++++++++++++++++++++++";
 echo $B."\nAuthor  : MrTuts4X                  ".$
-echo $B."\nGithub  : https://github.com/BrushX	".$
+echo $B."\nGithub  : https://github.com/MrTuts4X	".$
 echo $B."\nTeam    : W1ND CYB3R ATT4CK         ".$
 echo $B."\nContact : tuts4x@gmail.com                       ".$
 echo $B."\nDate    : 13-08-2018                 ".$
